@@ -1,0 +1,9 @@
+{
+  "name": "tsmagick",
+  "version": "1.0.0",
+  "description": "Beautiful little library to work with timestamp dates",
+  "main": "index.js",
+  "repository": "https://github.com/patchcom/tsmagick",
+  "author": "Hanut <hanutsing@gmail.com>",
+  "license": "MIT"
+}
