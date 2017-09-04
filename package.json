@@ -5,5 +5,6 @@
   "main": "index.js",
   "repository": "https://github.com/patchcom/tsmagick",
   "author": "Hanut <hanutsing@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+
 }
